@@ -8,7 +8,9 @@ El Niño forecast, and lets readers adjust the forecast strength and uncertainty
 
 ## View
 
-Open `index.html` in a browser. Fonts and the d3 library load from public CDNs; everything else is local.
+Live page: <https://ychenzgithub.github.io/ScalElNino/>
+
+Or open `index.html` locally in a browser. Fonts and the d3 library load from public CDNs; everything else is local.
 To serve it instead: `python3 -m http.server` in this folder, then visit <http://localhost:8000>.
 
 ## Files
